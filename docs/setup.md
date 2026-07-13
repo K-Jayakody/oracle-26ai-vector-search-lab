@@ -659,6 +659,8 @@ DISTANCE COSINE
 WITH TARGET ACCURACY 95;
 ```
 
+> If index creation fails due to memory configuration, the solution is included within troubleshooting notes.
+
 ## What Is HNSW?
 
 HNSW stands for **Hierarchical Navigable Small World**.
