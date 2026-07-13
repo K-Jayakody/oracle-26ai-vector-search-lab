@@ -118,7 +118,6 @@ In the query result:
 | Database | Oracle AI Database 26ai |
 | Software Version Used | 23.26.1.0.0 |
 | Architecture | Single-instance database |
-| Container Database | Enabled |
 | CDB Name | ORCL |
 | PDB Name | KBPDB |
 | Lab Schema | VECTOR_LAB |
