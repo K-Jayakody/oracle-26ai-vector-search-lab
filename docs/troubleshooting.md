@@ -96,7 +96,7 @@ This is acceptable for a controlled learning environment, but it is not recommen
 
 ---
 
-## 4. HNSW Vector Index Test Fails with ORA-51962
+## 3. HNSW Vector Index Test Fails with ORA-51962
 
 ### Issue
 
@@ -178,7 +178,7 @@ DISTANCE COSINE
 WITH TARGET ACCURACY 95;
 ```
 
-## 5. HNSW Index Already Exists
+## 4. HNSW Index Already Exists
 
 ### Issue
 
@@ -212,7 +212,7 @@ sqlplus vector_lab/VectorLab_2026@KBPDB @sql/05_hnsw_vector_index.sql
 
 ---
 
-## 6. Cannot Connect to KBPDB Using TNS Alias
+## 5. Cannot Connect to KBPDB Using TNS Alias
 
 ### Issue
 
@@ -288,7 +288,7 @@ KBPDB =
 
 ---
 
-## 7. VECTOR_LAB User Cannot Create Table
+## 6. VECTOR_LAB User Cannot Create Table
 
 ### Issue
 
